@@ -10,6 +10,12 @@ Text (.txt)
 Excel (.xlsx)
 PowerPoint (.pptx)
 
+<img width="1904" height="858" alt="Screenshot 2026-05-11 065926" src="https://github.com/user-attachments/assets/4610c9ce-6a8a-4101-a288-849512c4e387" />
+
+With output as 
+
+<img width="1897" height="978" alt="Screenshot 2026-05-11 065950" src="https://github.com/user-attachments/assets/9916ac49-372f-4cbb-ab54-c69400033406" />
+
 ⚙️ How It Works
 1. Text Extraction
 Each file type is processed using appropriate libraries:
